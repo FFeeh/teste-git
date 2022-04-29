@@ -1,2 +1,2 @@
-# Estudo sobre o uso git/gitHub 
+# Estudo sobre o uso do git/gitHub 
 projeto impulso Tec
